@@ -32,3 +32,8 @@ Instead writing full html this you can use:
             @include('layouts.components.input-text',['field'=>'kode','help'=>'Kode unik, setiap produk tidak boleh ada yang sama'])
         </div>
     </div>
+
+
+
+## License 
+Under MIT
