@@ -7,7 +7,8 @@ Here some example you can use in your code
 
 ## Dropdown
 Instead writing full html this you can use:
-`@include('layouts.components.dropdown',['field'=>'field_name','data'=>'yourlist','default'=>'default value')`
+
+    @include('layouts.components.dropdown',['field'=>'field_name','data'=>'yourlist','default'=>'default value')
 
 **Example:**
 
@@ -22,7 +23,9 @@ Instead writing full html this you can use:
 
 ## Text
 
-`@include('layouts.components.input-text',['field'=>'filename','help'=>'help description'])`
+Input text 
+
+    @include('layouts.components.input-text',['field'=>'filename','help'=>'help description'])
 
 **Example** 
 
